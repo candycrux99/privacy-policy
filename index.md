@@ -45,9 +45,6 @@ We may allow third parties to serve advertisements and provide analytics service
 
 Bright flashlight-torch may also use third-parties, such as a Flurry and Google Analytics in order to develop, personalize, analyze and monetize our products and services. For more information about Flurry and Google Analytics, please see:
 
-https://developer.yahoo.com/flurry/legal-privacy/tos.html
-https://www.google.com/analytics/terms/us.html
-
 The third party analytics companies and advertising companies who collect information on our mobile products and/or services may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies. Although Bright flashlight-torch takes commercially reasonable steps to instruct such analytics & advertising companies to comply with the terms and conditions of this Privacy Policy, Bright flashlight-torch does not have access to or control of third party technologies.
 
 Information Disclosure & Security
